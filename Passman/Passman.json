@@ -1,0 +1,5 @@
+﻿{
+  "VaultUsername": "Username",
+  "VaultPassword": "Hash",
+  "VaultSalt": "..."
+}
